@@ -1,46 +1,36 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Manpreet",
+    "occupation": "Aspiring Software Engineer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
-    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "bio": "Hi there! I am Manpreet Singh, From Assistant General Manager to Full-Stack Dev, a passionate learner on the journey to becoming a Software Engineer. Over the past few years, I have dived deep into the world of full-stack development, mastering tools like React and JavaScript. My goal is to create meaningful, real-world projects while continuously growing in this dynamic field. I’m also eager to connect with like-minded developers and help others by sharing knowledge, contributing to open-source projects, and exploring new tech innovations. I believe in building efficient and scalable software products and contributing back to the tech community.",
+    "contactmessage": "Get in touch with me to collaborate or connect!",
+    "email": "vickyarora.singh@gmail.com",
+    "phone": "+1 431-866-7575",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "7780 Rue Chouinard",
+      "city": "Lasalle",
+      "state": "QC",
+      "zip": "H8N 2E4"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "https://manpreetsingh.dev",
+    "resumedownload": "http://manpreetsingh.dev/resume",
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCqeTj_QAnNlmt7FwzNwHZnA",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/iammannpreet/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-instagram"
+        "name": "git",
+        "url": "https://github.com/iammannpreet",
+        "className": "fa fa-github"
       },
       {
-        "name": "github",
-        "url": "https://github.com/PapaReact",
-        "className": "fa fa-github"
+        "name": "instagram",
+        "url": "https://www.instagram.com/iammannpreet/",
+        "className": "fa fa-facebook"
       }
     ]
   },
@@ -48,74 +38,74 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Cegep de la Gaspésie et des Iles, Canada",
+        "degree": "Postgraduate, Mobile Application Development",
+        "graduated": "September 2021",
+        "description": "Specialized in mobile and web development technologies."
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Answernet",
+        "title": "Assistant General Manager",
+        "years": "September 2020 - September 2024",
+        "description": "Led teams, managed operations, and ensured quality client service. Gained valuable leadership experience and tech knowledge."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
-        "name": "Python",
+        "name": "JavaScript",
+        "level": "95%"
+      },
+      {
+        "name": "HTML/CSS",
+        "level": "90%"
+      },
+      {
+        "name": "SASS",
         "level": "85%"
       },
       {
         "name": "Git",
-        "level": "70%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "99%"
-      },
-      {
-        "name": "Web Development",
-        "level": "95%"
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
+        "title": "Gym Buddy App (React JS)",
         "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "image": "gymbuddy.jpg",
+        "url": "https://manpreetsingh.dev/gymbuddy"
       },
       {
-        "title": "Gmail Clone (React JS)",
+        "title": "BandSite Project (HTML/CSS/JS)",
         "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "image": "bandsite.jpg",
+        "url": "https://manpreetsingh.dev/bandsite"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "BrainFlix Project (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "brainflix.jpg",
+        "url": "https://manpreetsingh.dev/brainflix"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
-        "user": "Jorge Fouto"
+        "text": "Manpreet's dedication and drive have been inspiring. His technical expertise and ability to tackle complex problems are impressive.",
+        "user": "Michelle - Former Manager at Answernet"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
-        "user": "Adam Curtis"
+        "text": "Working with Manpreet was a pleasure. He brought fresh ideas and great energy to every project we collaborated on.",
+        "user": "Akshit Basur - Former Colleague"
       }
     ]
   }
