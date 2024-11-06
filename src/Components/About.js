@@ -32,7 +32,7 @@ const About = ({ data }) => {
             <div className="columns contact-details">
               <h2>Contact Details</h2>
               <p className="address">
-                <span>{name}</span>
+                <span>Manpreet Singh</span>
                 <br />
                 <span>
                   {street}
