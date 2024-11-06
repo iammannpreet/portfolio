@@ -1,21 +1,18 @@
 {
   "main": {
-    "name": "Manpreet",
-    "occupation": "Aspiring Software Engineer",
-    "description": "I eat, sleep and breathe React",
+    "name": "Mann",
+    "occupation": "Full Stack Developer",
+    "description": "From AGM to Full Stack Developer – mastering NextJS right now, one line at a time!",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am Manpreet Singh, From Assistant General Manager to Full-Stack Dev, a passionate learner on the journey to becoming a Software Engineer. Over the past few years, I have dived deep into the world of full-stack development, mastering tools like React and JavaScript. My goal is to create meaningful, real-world projects while continuously growing in this dynamic field. I’m also eager to connect with like-minded developers and help others by sharing knowledge, contributing to open-source projects, and exploring new tech innovations. I believe in building efficient and scalable software products and contributing back to the tech community.",
     "contactmessage": "Get in touch with me to collaborate or connect!",
     "email": "vickyarora.singh@gmail.com",
     "phone": "+1 431-866-7575",
     "address": {
-      "street": "7780 Rue Chouinard",
-      "city": "Lasalle",
-      "state": "QC",
-      "zip": "H8N 2E4"
+      "street": "Based in Montreal"
     },
-    "website": "https://manpreetsingh.dev",
-    "resumedownload": "http://manpreetsingh.dev/resume",
+    "website": "https://iammannpreet.com",
+    "resumedownload": "https://github.com/iammannpreet/myResume/raw/main/Manpreet's%20Resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -58,16 +55,16 @@
         "level": "90%"
       },
       {
-        "name": "JavaScript",
-        "level": "95%"
+        "name": "NEXTJS 15",
+        "level": "85%"
       },
       {
         "name": "HTML/CSS",
-        "level": "90%"
+        "level": "95%"
       },
       {
-        "name": "SASS",
-        "level": "85%"
+        "name": "TAILWIND",
+        "level": "95%"
       },
       {
         "name": "Git",
@@ -78,27 +75,31 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Gym Buddy App (React JS)",
+        "title": "ActiveCircle",
         "category": "",
         "image": "gymbuddy.jpg",
-        "url": "https://manpreetsingh.dev/gymbuddy"
+        "url": "https://deluxe-banoffee-13d115.netlify.app/"
       },
       {
-        "title": "BandSite Project (HTML/CSS/JS)",
+        "title": "Bell Industrial Hackathon",
         "category": "",
-        "image": "bandsite.jpg",
-        "url": "https://manpreetsingh.dev/bandsite"
+        "image": "",
+        "url": "https://github.com/Alicehappy/group-innovation-station-bell-industrial-hackthon/tree/develop"
       },
       {
-        "title": "BrainFlix Project (React JS)",
+        "title": "BrainCoins",
         "category": "",
-        "image": "brainflix.jpg",
-        "url": "https://manpreetsingh.dev/brainflix"
+        "image": "",
+        "url": "https://github.com/gillnim/braincoin-server"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
+      {
+        "text": "I had the pleasure of working with Manpreet on several projects, and I've been thoroughly impressed by his contributions. Manpreet's keen eye for frontend development really sets him apart. His attention to details allows him to create visually appealing interfaces that enhanced our project's user experience.",
+        "user": "Salina Tulik - Worked on the same team at BrainStaion"
+      },
       {
         "text": "Manpreet's dedication and drive have been inspiring. His technical expertise and ability to tackle complex problems are impressive.",
         "user": "Michelle - Former Manager at Answernet"

@@ -17,9 +17,10 @@ const Contact = ({ data }) => {
     var contactMessage = data.contactmessage;
   }
 
-  const submitForm = () => {
+  const submitForm = (event) => {
+    event.preventDefault(); // Prevents page reload
     window.open(
-      `mailto:${contactEmail}?subject=${encodeURIComponent(
+      `mailto:vickyarora.singh@gmail.com?subject=${encodeURIComponent(
         subject
       )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
         email
@@ -51,7 +52,6 @@ const Contact = ({ data }) => {
                 </label>
                 <input
                   type="text"
-                  defaultValue=""
                   value={name}
                   size="35"
                   id="contactName"
@@ -66,7 +66,6 @@ const Contact = ({ data }) => {
                 </label>
                 <input
                   type="text"
-                  defaultValue=""
                   value={email}
                   size="35"
                   id="contactEmail"
@@ -79,7 +78,6 @@ const Contact = ({ data }) => {
                 <label htmlFor="contactSubject">Subject</label>
                 <input
                   type="text"
-                  defaultValue=""
                   value={subject}
                   size="35"
                   id="contactSubject"
@@ -103,7 +101,7 @@ const Contact = ({ data }) => {
               </div>
 
               <div>
-                <button onClick={submitForm} type="submit" className="submit">
+                <button type="submit" className="submit">
                   Submit
                 </button>
               </div>
@@ -119,15 +117,11 @@ const Contact = ({ data }) => {
 
         <aside className="four columns footer-widgets">
           <div className="widget widget_contact">
-            <h4>Address and Phone</h4>
+            <h4>Get in Touch</h4>
             <p className="address">
-              {contactName}
+              Manpreet Singh
               <br />
               {contactEmail}
-              <br />
-              <br />
-              {street} <br />
-              {city}, {state} {zip}
               <br />
               <span>{phone}</span>
             </p>
