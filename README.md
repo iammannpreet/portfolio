@@ -1,3 +1,6 @@
+Sure! Here's the properly formatted markdown text. Just copy and paste it into your `README.md` file, and it will render correctly.
+
+```markdown
 # **My Portfolio Website**
 
 [Visit My Portfolio](https://iammannpreet.com)
@@ -19,17 +22,9 @@ This repository contains the source code for my personal portfolio website. The 
 ## **Tech Stack**
 - **Frontend**: Next.js, React.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js, MongoDB  
-- **3D Modeling**: React Three Fiber, Three.js  
 - **Testing**: Jest  
 - **Deployment**: Netlify  
 - **Tools**: Git, GitHub, Agile Development  
-
----
-
-## **Project Highlights**
-- Integrated a dynamic 3D bike model using React Three Fiber to represent my love for travel and remote work.  
-- Developed light and dark themes to enhance user experience, with dynamic lighting effects in dark mode.  
-- Implemented a modular and scalable codebase for maintainability and future enhancements.  
 
 ---
 
@@ -40,3 +35,38 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/iammannpreet/portfolio.git
    cd portfolio
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in your browser**:
+   Navigate to `http://localhost:3000`.
+
+---
+
+## **Contributing**
+While this project is primarily for personal use, I welcome suggestions and improvements. Feel free to open issues or submit pull requests.
+
+---
+
+## **Contact**
+For any inquiries or feedback, you can reach me at:  
+**Email**: [vickyarora.singh@gmail.com](mailto:vickyarora.singh@gmail.com)  
+**Portfolio**: [iammannpreet.com](https://iammannpreet.com)  
+**LinkedIn**: [linkedin.com/in/iammannpreet](https://linkedin.com/in/iammannpreet)  
+
+---
+
+## **License**
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+```
+
+When you paste this into a markdown file, it will render properly with all headings, links, and code snippets formatted correctly.
