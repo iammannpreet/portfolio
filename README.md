@@ -1,6 +1,3 @@
-Sure! Here's the properly formatted markdown text. Just copy and paste it into your `README.md` file, and it will render correctly.
-
-```markdown
 # **My Portfolio Website**
 
 [Visit My Portfolio](https://iammannpreet.com)
