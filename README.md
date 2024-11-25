@@ -59,11 +59,3 @@ For any inquiries or feedback, you can reach me at:
 **Email**: [vickyarora.singh@gmail.com](mailto:vickyarora.singh@gmail.com)  
 **Portfolio**: [iammannpreet.com](https://iammannpreet.com)  
 **LinkedIn**: [linkedin.com/in/iammannpreet](https://linkedin.com/in/iammannpreet)  
-
----
-
-## **License**
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
-
-When you paste this into a markdown file, it will render properly with all headings, links, and code snippets formatted correctly.
