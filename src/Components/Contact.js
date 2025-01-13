@@ -15,7 +15,7 @@ const Contact = ({ data }) => {
   const submitForm = (event) => {
     event.preventDefault(); // Prevents page reload
     window.open(
-      `mailto:vickyarora.singh@gmail.com?subject=${encodeURIComponent(
+      `mailto:contact@iammannpreet.com?subject=${encodeURIComponent(
         subject
       )}&body=${encodeURIComponent(name)} (${encodeURIComponent(
         email

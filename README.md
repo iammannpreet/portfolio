@@ -56,6 +56,6 @@ While this project is primarily for personal use, I welcome suggestions and impr
 
 ## **Contact**
 For any inquiries or feedback, you can reach me at:  
-**Email**: [vickyarora.singh@gmail.com](mailto:vickyarora.singh@gmail.com)  
+**Email**: [contact@iammannpreet.com](mailto:contact@iammannpreet.com)  
 **Portfolio**: [iammannpreet.com](https://iammannpreet.com)  
 **LinkedIn**: [linkedin.com/in/iammannpreet](https://linkedin.com/in/iammannpreet)  
